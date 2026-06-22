@@ -27,17 +27,6 @@ Manual recognition of handwritten characters is slow and error-prone. This proje
 - Training Accuracy: ~99%
 - Validation Accuracy: ~99%
 - Works well on clean handwritten inputs
-# Project Structure
-Handwritten/
-│
-├── app.py
-├── notebook/
-│     └── handwritten_alphabet_cnn.keras
-|      └── handwritten.ipynb
-├── data/
-├── test images/
-├── requirements.txt
-└── README.md
 # How to Run
 1. Install dependencies
 pip install -r requirements.txt
